@@ -1,6 +1,3 @@
-# portfolio
-My developer portfolio
-
 # Gunawan - Full Stack Web Developer
 
 ## About Me

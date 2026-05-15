@@ -32,6 +32,8 @@ Database
 
 Featured Project
 
+<img src="assets/Preview-Image.png" width="100%" />
+
 StockFlow v1.0 — Inventory Management System
 
 Modern inventory management system built with Laravel and Sneat Admin Dashboard.

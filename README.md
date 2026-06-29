@@ -44,9 +44,6 @@ Saya terbiasa membangun sistem dengan struktur yang rapi, backend yang efisien, 
 
 Sistem manajemen inventaris modern berbasis Laravel dengan Sneat Admin Dashboard.
 
-**Lihat Proyek:**  
-https://github.com/Guunawan/stockflow-v1.0
-
 ### Fitur
 - Dashboard analytics
 - Manajemen produk

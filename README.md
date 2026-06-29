@@ -1,62 +1,63 @@
 # Gunawan — Full Stack Web Developer
 
-## About Me
+## Tentang Saya
 
-I am a Full Stack Web Developer focused on building modern and responsive web applications using Laravel, React.js, and Node.js.
+Saya adalah Full Stack Web Developer yang fokus dalam pengembangan aplikasi web modern, responsif, dan scalable menggunakan Laravel dan JavaScript.
 
-I enjoy creating clean, scalable, and user-friendly systems with well-structured architecture and polished interfaces.
+Saya terbiasa membangun sistem dengan struktur yang rapi, backend yang efisien, serta UI yang user-friendly untuk kebutuhan bisnis dan operasional.
 
 ---
 
-# Tech Stack
+## Tech Stack
 
-## Frontend
-
-- React.js
+### Frontend
+- HTML
+- CSS
 - JavaScript
 - Bootstrap 5
-- jQuery
+- React.js (dasar)
 
-## Backend
-
+### Backend
 - Laravel
-- Node.js
-- Express.js
+- PHP
+- Node.js (dasar)
+- Express.js (dasar)
 
-## Database
-
+### Database
 - MySQL
-- MongoDB
+- MongoDB (dasar)
+
+### Tools
+- Git
+- GitHub
+- REST API
+- AJAX
+- Visual Studio Code
 
 ---
 
-# Featured Project
+## Proyek Utama
 
 <img src="assets/Preview-Image.png" width="100%" />
 
-## StockFlow v1.0 — Inventory Management System
+### StockFlow v1.0 — Sistem Manajemen Inventaris
 
-Modern inventory management system built with Laravel and Sneat Admin Dashboard.
+Sistem manajemen inventaris modern berbasis Laravel dengan Sneat Admin Dashboard.
 
-### View Project
-
+**Lihat Proyek:**  
 https://github.com/Guunawan/stockflow-v1.0
 
-### Features
-
+### Fitur
 - Dashboard analytics
-- Product management
-- Category management
-- Stock in & stock out system
-- Inventory transaction history
-- Stock alert notifications
-- Responsive layout
-- Clean architecture structure
-- Reusable Blade components
-- Filtering, sorting, and pagination
+- Manajemen produk
+- Manajemen kategori
+- Sistem stok masuk & keluar
+- Riwayat transaksi stok
+- Notifikasi stok menipis
+- Pagination, filtering, sorting
+- Struktur kode rapi
 
-### Technology
-
+### Teknologi
 - Laravel 12
 - Bootstrap 5
 - Sneat Admin Dashboard
@@ -64,14 +65,18 @@ https://github.com/Guunawan/stockflow-v1.0
 
 ---
 
-# Other Projects
+## Proyek Lain
 
-- Web Laundry Management System
-- Warehouse Management System
-- Sistem Serah Terima Barang (PKL JNE)
+- CashFlow — Sistem Point of Sale (POS)
+- CRMFlow — Customer Relationship Management System
+- STBFlow — Sistem Serah Terima Barang (PKL di PT JNE)
+- Sistem Manajemen Laundry Web
+- Sistem Manajemen Gudang
 
 ---
 
-# Contact
+## Link
 
-Email: gunawanradit1@gmail.com
+- Email: gunawanradit1@gmail.com  
+- GitHub: https://github.com/Guunawan  
+- Showcase / Product Page: https://lynk.id/guunawan

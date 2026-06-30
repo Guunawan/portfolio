@@ -38,7 +38,7 @@ Saya terbiasa membangun sistem dengan struktur yang rapi, backend yang efisien, 
 
 ## Proyek Utama
 
-<img src="assets/Preview-Image.png" width="100%" />
+<img src="assets/IMG_3593.png" width="100%" />
 
 ### StockFlow v1.0 — Sistem Manajemen Inventaris
 
